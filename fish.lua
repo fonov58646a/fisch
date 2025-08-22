@@ -517,7 +517,7 @@ do
 		ImageButton.BorderSizePixel = 0
 		ImageButton.Position = UDim2.new(-0.0250000004, 0, -0.027777778, 0)
 		ImageButton.Size = UDim2.new(1.1, 0, 1.1, 0)
-		ImageButton.Image = "rbxassetid://103816145608946"
+		ImageButton.Image = "rbxassetid://103774654302837"
 
 		ImageButton.MouseButton1Click:Connect(function()
 			game:GetService("Players").LocalPlayer.PlayerGui["Roblox/Fluent"]:GetChildren()[2].Visible = not game:GetService("Players").LocalPlayer.PlayerGui["Roblox/Fluent"]:GetChildren()[2].Visible
